@@ -11,7 +11,7 @@ async function main() {
   console.log("=".repeat(60));
 
   // Arc Testnet USDC address
-  const USDC_ADDRESS = "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359";
+  const USDC_ADDRESS = "0x3600000000000000000000000000000000000000";
   const PLATFORM_FEE = 100; // 1%
 
   console.log("\n[1/2] Deploying AgentRegistry...");
