@@ -20,7 +20,8 @@
 
 ArcScan:
 - https://testnet.arcscan.app/address/0x1440bE7D86338559fEfb200E35D9c189B1790E7F
-- https://testnet.arcscan.app/address/0xc63360bB0881F3203FFB4527a5e06b3ca159F259
+- https://testnet.arcscan.app/address/xqr
+0xc63360bB0881F3203FFB4527a5e06b3ca159F259
 
 ---
 
